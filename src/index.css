@@ -1,0 +1,42 @@
+:root {
+  /* Thème clair (default) */
+  --bg-color: #f9f9f9;
+  --text-color: #222;
+  --primary-color: #4f46e5; /* violet doux */
+  --hover-color: #e0e7ff;
+  --button-bg: #4f46e5;
+  --button-text: #fff;
+  --border-color: #ddd;
+  --cart-badge-bg: #ef4444;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #eee;
+  --primary-color: #7c3aed;
+  --hover-color: #3b3b3b;
+  --button-bg: #7c3aed;
+  --button-text: #fff;
+  --border-color: #333;
+  --cart-badge-bg: #f87171;
+}
+
+[data-theme="alternative"] {
+  --bg-color: #fff7ed;
+  --text-color: #92400e;
+  --primary-color: #f97316; /* orange */
+  --hover-color: #fed7aa;
+  --button-bg: #f97316;
+  --button-text: #fff;
+  --border-color: #fcd9b8;
+  --cart-badge-bg: #f97316;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
