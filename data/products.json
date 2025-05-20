@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Casque Bluetooth Nova",
+    "price": 79.99,
+    "stock": 15,
+    "image": "https://imgs.search.brave.com/0mpy9Tifu5kNPsWGxeY3t9mEO6HPGmAh_1iSvyVh4NY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFIOXNhYi1YbEwu/anBn"
+  },
+  {
+    "id": 2,
+    "name": "Montre Connectée",
+    "price": 129.99,
+    "stock": 8,
+    "image": "https://imgs.search.brave.com/IYHFrtWVl-bHIFkfG6M6vlEOBhvLAdgXzmTCZvnPoPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzE2RFRob0NlUkwu/X0FDLl9TUjE4MCwy/MzAuanBn"
+  },
+  {
+    "id": 3,
+    "name": "Clavier Mécanique RGB",
+    "price": 59.95,
+    "stock": 20,
+    "image": "https://imgs.search.brave.com/_jPXqJ_Uqhsd6rd_2LNJ3OycEfvkgCq3MvmcjmadhT8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFxY1R0M2huUkwu/anBn"
+  },
+  {
+    "id": 4,
+    "name": "Caméra Web HD Pro",
+    "price": 89.5,
+    "stock": 6,
+    "image": "https://imgs.search.brave.com/SaxSdarT1nEtWBHb7iFZAO4XWFDLtopYqwoCCe_2IwE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFlR2IxRmN5aUwu/anBn"
+  },
+  {
+    "id": 5,
+    "name": "Bureau Ergonomique Bois",
+    "price": 249.99,
+    "stock": 3,
+    "image": "https://imgs.search.brave.com/OOVYU90WcGkK2Rcr1CKrVv-IWqWRU1KujwilE8zJVHo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWlsaWJvby5iZS9i/dXJlYXUtaW5kdXN0/cmllbC1ib2lzLW1h/c3NpZi1ldC1tZXRh/bC1ub2lyLWwxMTUt/Y20taG9vcm4tNTEw/MDAtcHJpbmNpcGFs/ZV80MDBfMjkxXzAu/anBn"
+  },
+  {
+    "id": 6,
+    "name": "Lampe LED de Bureau",
+    "price": 39.99,
+    "stock": 12,
+    "image": "https://imgs.search.brave.com/vM1VviTKFSaCe-DgAeFdYF_BpWSczwjHJEzDUj3i_zI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFob3grZE5BZUwu/anBn"
+  },
+  {
+    "id": 7,
+    "name": "Support Ordinateur Inclinable",
+    "price": 24.9,
+    "stock": 25,
+    "image": "https://imgs.search.brave.com/6ogtHDwMhuO9XAn7BTnJI5kpwv5oeDfYuyc-7zaBmeA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWFub21hbm8uY29t/L3N1cHBvcnQtZG9y/ZGluYXRldXItcG9y/dGFibGUtMzYwLWlu/Y2xpbmFibGUtdGFi/bGUtdGFibGV0dGUt/bGl0LXBjLVAtMTg4/MDE1NjQtMzMyMjA4/MTBfMS5qcGc"
+  },
+  {
+    "id": 8,
+    "name": "Sac à Dos Minimaliste",
+    "price": 64.95,
+    "stock": 9,
+    "image": "https://imgs.search.brave.com/xt5lSoQ_1r242hdh2wqDSPzkvj_PKeon0Z5wd8svUxU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bW9uLXNhYy1hLWRv/cy5mci93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wNS9TYWNf/YV9kb3NfdXJiYWlu/X3N0eWxlX21pbmlt/YWxpc3RlXzEtODAw/eDgwMC5qcGVn"
+  },
+  {
+    "id": 9,
+    "name": "Tapis de Souris XL",
+    "price": 14.99,
+    "stock": 30,
+    "image": "https://imgs.search.brave.com/Xiza6Q-kYkptiNa19mDErkUuQebpdAsKBnhM3smYxxA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF4aTUzTXBkS0wu/anBn"
+  },
+  {
+    "id": 10,
+    "name": "Enceinte Portable BoomX",
+    "price": 49.99,
+    "stock": 10,
+    "image": "https://imgs.search.brave.com/OKzaX6YcexG75uEEWHBbwwZjeL9wcKLhLBJWG0pmC4w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cm9ib3QtYWR2YW5j/ZS5jb20vYXItamJs/LWJvb21ib3gtMy1l/bmNlaW50ZS1ibHVl/dG9vdGgtcG9ydGFi/bGUtNDQwNy5qcGc"
+  }
+]
